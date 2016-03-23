@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="del_btn">DEL</string>
+    <string name="mult_btn">×</string>
+    <string name="div_btn">÷</string>
+    <string name="RAD_textView">RAD</string>
+    <string name="tab_tab1">ОБ ИГРЕ</string>
+    <string name="tab_tab2">МОИ ДОСТИЖЕНИЯ</string>
+    <string name="tab_tab3">РЕЙТИНГ ИГРО</string>
+</resources>

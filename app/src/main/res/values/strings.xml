@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LayoutApp</string>
+    <string name="del_btn">DEL</string>
+    <string name="mult_btn">×</string>
+    <string name="div_btn">÷</string>
+    <string name="RAD_textView">RAD</string>
+    <string name="tab_tab1">ОБ ИГРЕ</string>
+    <string name="tab_tab2">МОИ ДОСТИЖЕНИЯ</string>
+    <string name="tab_tab3">РЕЙТИНГ ИГРО</string>
+</resources>
